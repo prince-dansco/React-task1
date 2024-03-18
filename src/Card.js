@@ -16,7 +16,7 @@ const Card = () => {
           <span>
             by <a href="#">klyle patterson</a>
           </span>
-          <button>Read More</button>
+          <button>Read article</button>
         </div>
       </div>
     </div>
